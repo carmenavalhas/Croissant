@@ -1,4 +1,6 @@
-
+body {
+  background: wheat;
+}
 a {
 color: blueviolet;
 display: block;
